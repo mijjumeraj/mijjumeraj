@@ -7,6 +7,9 @@
 
 ### 🚀 About Me
 
+
+
+
 💻 A passionate developer who loves learning and building projects using Python, React, and Django. Also interested in Data Analysis — exploring insights using Pandas, NumPy, and SQL.\\
 🚀 Always improving my skills and working on real-world projects.\\
 🌱 Currently learning Full Stack Development and expanding my knowledge in Data Analytics.\\
