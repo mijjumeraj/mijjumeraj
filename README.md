@@ -7,11 +7,11 @@
 
 ### 🚀 About Me
 
-I thrive at the intersection of **Software Development** and **Data Analytics**. My goal is to build efficient, scalable applications while extracting actionable **data insights** to drive decision-making.
-
--   💡 **My Expertise:** Building **Full Stack Web Solutions** with a focus on clean code and leveraging **SQL** and **Python** for complex data processing.
--   🌱 **Currently Learning:** [DSA].
--   🤝 **Open for:** Collaboration on innovative projects that involve both system building and data interpretation.
+💻 A passionate developer who loves learning and building projects using Python, React, and Django. Also interested in Data Analysis — exploring insights using Pandas, NumPy, and SQL.
+🚀 Always improving my skills and working on real-world projects.
+🌱 Currently learning Full Stack Development and expanding my knowledge in Data Analytics.
+💡 **My Expertise:** Building **Full Stack Web Solutions** with a focus on clean code and leveraging **SQL** and **Python** for complex data processing. 🌱 **Currently Learning:** [DSA].
+🤝 **Open for:** Collaboration on innovative projects that involve both system building and data interpretation.
 
 ### 🛠️ My Dual Toolkit
 
